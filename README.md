@@ -1,5 +1,6 @@
 # Live2D Widget
-# 转载https://github.com/stevenjoezhang/live2d-widget只为了加载
+# 转载https://github.com/stevenjoezhang/live2d-widget
+只为了加载
 
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg)
